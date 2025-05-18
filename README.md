@@ -2,7 +2,7 @@
 A modern, visually appealing implementation of the classic 15 Puzzle game built with React. Slide tiles in a 4×4 grid to arrange them in numerical order. Solve the puzzle in the fewest moves and time possible.
 
 ## Features
-- Interactive 4×4 sliding tile puzzle
+- Interactive sliding tile puzzle
 - Dynamic win detection with overlay feedback
 - Move counter and timer system
 - Smooth tile transitions and hover effects
