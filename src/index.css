@@ -1,0 +1,27 @@
+:root {
+    --tile-size: 80px;
+    --gap-size: 10px;
+    --border-radius: 10px;
+    --primary: #4a90e2;
+    --primary-dark: #357ab7;
+    --success: #2ecc71;
+    --background: #f5f9fc;
+    --board-bg: #e3ecf4;
+    --text: #333;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--background);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
